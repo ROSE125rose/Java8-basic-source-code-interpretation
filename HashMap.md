@@ -1,4 +1,4 @@
-# HashMap集合(高级)
+# HashMap集合
 
 ## 1.HashMap集合简介
 
